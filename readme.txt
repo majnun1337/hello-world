@@ -1,1 +1,2 @@
 git-it tutorial
+newline
